@@ -2,7 +2,6 @@
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
-
 1) Read and Display an Image.  
 2) Adjust the brightness of an image.  
 3) Modify the image contrast.  
